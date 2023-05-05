@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="068394e7-8407-4d34-8eef-e9eed4ef306d" name="Changes" comment="My first Array declaration">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter_7/Array_classWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter_7/ClassArrayDeclaration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter_7/MethodArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter_7/MethodArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter_7/MethodMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter_7/MethodOverload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KuliTech.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LanguageApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nokia3310Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintingUserName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintingUserNameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOfUserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOfUserInput2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOfUserInput4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumofUserInput3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/chap2/ComparingIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/chap2/seventeen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter_7/ArrayDeclaration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter_7/ArrayDeclaration.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NgI33gpekwyAdjqdLRBoeBtWBA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Chapter_7" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SumOfUserInput">
+    <configuration name="Chapter4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4" />
+      <module name="JavaClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfUserInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfUserInput" />
+      <module name="JavaClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Chapter_7" />
+      <option name="MAIN_CLASS_NAME" value="Chapter_7.MethodArrayTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodArrayTest.testCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Chapter_7" />
+      <option name="MAIN_CLASS_NAME" value="Chapter_7.MethodArrayTest" />
+      <option name="METHOD_NAME" value="testCheck" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodArrayTest.testThatMethodWorks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Chapter_7" />
+      <option name="MAIN_CLASS_NAME" value="Chapter_7.MethodArrayTest" />
+      <option name="METHOD_NAME" value="testThatMethodWorks" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SumOfUserInput" />
+        <item itemvalue="Application.Chapter4" />
+        <item itemvalue="JUnit.MethodArrayTest.testCheck" />
+        <item itemvalue="JUnit.MethodArrayTest.testThatMethodWorks" />
+        <item itemvalue="JUnit.MethodArrayTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="068394e7-8407-4d34-8eef-e9eed4ef306d" name="Changes" comment="" />
+      <created>1680079099312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680079099312</updated>
+      <workItem from="1680079100633" duration="3075000" />
+      <workItem from="1680725669843" duration="8747000" />
+      <workItem from="1680752545680" duration="341000" />
+      <workItem from="1680764876331" duration="33512000" />
+      <workItem from="1680860126802" duration="4555000" />
+      <workItem from="1680875459323" duration="764000" />
+      <workItem from="1680969987217" duration="975000" />
+      <workItem from="1681053101388" duration="757000" />
+      <workItem from="1681123922164" duration="6413000" />
+      <workItem from="1681286186668" duration="54000" />
+      <workItem from="1681324785191" duration="5082000" />
+      <workItem from="1681393735938" duration="599000" />
+      <workItem from="1681416167475" duration="1796000" />
+      <workItem from="1681729102632" duration="212000" />
+      <workItem from="1681735560429" duration="20000" />
+      <workItem from="1681804557636" duration="45000" />
+      <workItem from="1681854200203" duration="24000" />
+      <workItem from="1681912142484" duration="4569000" />
+      <workItem from="1682081663734" duration="120000" />
+      <workItem from="1682116910601" duration="36000" />
+      <workItem from="1682599085792" duration="172000" />
+      <workItem from="1682873691906" duration="711000" />
+      <workItem from="1683047953134" duration="599000" />
+      <workItem from="1683091782946" duration="6851000" />
+      <workItem from="1683202654418" duration="1179000" />
+      <workItem from="1683229897473" duration="16919000" />
+    </task>
+    <task id="LOCAL-00001" summary="My first Array declaration">
+      <created>1683104886256</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683104886256</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My first Array declaration" />
+    <option name="LAST_COMMIT_MESSAGE" value="My first Array declaration" />
+  </component>
+</project>
