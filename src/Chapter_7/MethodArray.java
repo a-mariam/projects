@@ -9,9 +9,11 @@ public class MethodArray {
      for(int index = 0; index < number.length;index++) {
        number[index] = index + 1;
      }
-     //System.out.println(Arrays.toString(number));
+     System.out.println(Arrays.toString(number));
      return number;
+
    }
+
 
 
 }

@@ -13,11 +13,11 @@ public class MethodArrayTest {
     int [] worknumber = new int[200];
     @Test
     public void testCheck() {
-
+           int [] tess = new int [8];
         int[] array2ndOption = new int[6];
-        MethodArray.check(worknumber);
+        MethodArray.check(tess);
         int[] newArrayAsResult = {1, 2, 3, 4, 5, 6};
-            assertEquals(Arrays.toString(worknumber), Arrays.toString(MethodArray.check(worknumber)));
+            assertEquals(Arrays.toString(tess), Arrays.toString(MethodArray.check(tess)));
         }
 @Test
     public void testThatMethodWorks(){

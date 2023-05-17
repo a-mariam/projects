@@ -5,9 +5,9 @@ import java.util.Arrays;
 public class ClassArrayDeclaration {
     public static void main(String[] args) {
         int array[] = new int[10];
-        System.out.println(array);
+       // System.out.println(array);
         array[2] = 39;
-        System.out.println(array);
+        //System.out.println(array);
         System.out.println(Arrays.toString(array));
      int number [] = new int[9];
         System.out.println(ClassArrayDeclaration.toString(number));
