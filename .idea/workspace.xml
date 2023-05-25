@@ -4,15 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="068394e7-8407-4d34-8eef-e9eed4ef306d" name="Changes" comment="My first Array declaration">
+    <list default="true" id="068394e7-8407-4d34-8eef-e9eed4ef306d" name="Changes" comment="OOP begins">
+      <change afterPath="$PROJECT_DIR$/src/ArraySnacksByChibuzor/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraySnacksByChibuzor/CreditCardValidationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraySnacksByChibuzor/MBTI.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ChibuzorHellClass/Nigeria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChibuzorHellClass/Nigeria2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ChibuzorHellClass/Nigeria2Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ChibuzorHellClass/Person.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ChibuzorHellClass/Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChibuzorHellClass/TypeOfProblem.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ChibuzorHellClass/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidNightChapter7/ArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MBTI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Seller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Relationship/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thing/Amphibians.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thing/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thing/Aves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thing/Invertebrae.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thing/LivingThing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thing/Mammals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thing/NonLivingThing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thing/Pisces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thing/Plants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thing/Reptiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thing/Things.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thing/Vertebrae.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter_7/CollectUserInputArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter_7/CollectUserInputArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/BillingInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/BillingInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/CreditCardInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/CreditCardInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Estore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Estore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Items.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Items.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,17 +100,18 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="ArraySnacksByChibuzor" />
       <recent name="ChibuzorHellClass" />
       <recent name="Chapter_7" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Nigeria2Test">
-    <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidNightChapter7.ArrayExample" />
+  <component name="RunManager" selected="JUnit.CreditCardValidationTest">
+    <configuration name="CreditCard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraySnacksByChibuzor.CreditCard" />
       <module name="JavaClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MidNightChapter7.*" />
+          <option name="PATTERN" value="ArraySnacksByChibuzor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentGradeBarChat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidNightChapter7.StudentGradeBarChat" />
+    <configuration name="MBTI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraySnacksByChibuzor.MBTI" />
       <module name="JavaClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MidNightChapter7.*" />
+          <option name="PATTERN" value="ArraySnacksByChibuzor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,54 +132,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfSquareOfTwoNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JennyClass.SumOfSquareOfTwoNumber" />
+    <configuration name="CreditCardValidationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JennyClass.*" />
+          <option name="PATTERN" value="ArraySnacksByChibuzor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserInput5Times" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JennyClass.UserInput5Times" />
-      <module name="JavaClass" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JennyClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Nigeria2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaClass" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ChibuzorHellClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ChibuzorHellClass" />
-      <option name="MAIN_CLASS_NAME" value="ChibuzorHellClass.Nigeria2Test" />
+      <option name="PACKAGE_NAME" value="ArraySnacksByChibuzor" />
+      <option name="MAIN_CLASS_NAME" value="ArraySnacksByChibuzor.CreditCardValidationTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreditCardValidationTest.testCreditCardType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArraySnacksByChibuzor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ArraySnacksByChibuzor" />
+      <option name="MAIN_CLASS_NAME" value="ArraySnacksByChibuzor.CreditCardValidationTest" />
+      <option name="METHOD_NAME" value="testCreditCardType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreditCardValidationTest.testCreditCardValidation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArraySnacksByChibuzor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ArraySnacksByChibuzor" />
+      <option name="MAIN_CLASS_NAME" value="ArraySnacksByChibuzor.CreditCardValidationTest" />
+      <option name="METHOD_NAME" value="testCreditCardValidation" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Nigeria2Test" />
-        <item itemvalue="Application.ArrayExample" />
-        <item itemvalue="Application.StudentGradeBarChat" />
-        <item itemvalue="Application.SumOfSquareOfTwoNumber" />
-        <item itemvalue="Application.UserInput5Times" />
+        <item itemvalue="JUnit.CreditCardValidationTest" />
+        <item itemvalue="JUnit.CreditCardValidationTest.testCreditCardType" />
+        <item itemvalue="Application.CreditCard" />
+        <item itemvalue="JUnit.CreditCardValidationTest.testCreditCardValidation" />
+        <item itemvalue="Application.MBTI" />
       </list>
     </recent_temporary>
   </component>
@@ -209,6 +242,12 @@
       <workItem from="1684339717603" duration="714000" />
       <workItem from="1684357460372" duration="43000" />
       <workItem from="1684498414376" duration="6265000" />
+      <workItem from="1684717503995" duration="301000" />
+      <workItem from="1684770675310" duration="6125000" />
+      <workItem from="1684844291378" duration="3095000" />
+      <workItem from="1684864315622" duration="29674000" />
+      <workItem from="1685016045008" duration="3282000" />
+      <workItem from="1685035073237" duration="6825000" />
     </task>
     <task id="LOCAL-00001" summary="My first Array declaration">
       <created>1683104886256</created>
@@ -217,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683104886256</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="OOP begins">
+      <created>1684717784212</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684717784212</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,6 +282,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My first Array declaration" />
-    <option name="LAST_COMMIT_MESSAGE" value="My first Array declaration" />
+    <MESSAGE value="OOP begins" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP begins" />
   </component>
 </project>
