@@ -27,6 +27,8 @@ public class KuliTech {
         System.out.println(result);
         int min = getMinimumNumber(8,2,6);
         System.out.println(min);
+        int g = 12;
+        System.out.println(g %= 9);
     }
         public static int getMaximumNumber(int num1, int num2, int num3){
             return Math.max(num1, Math.max(num2, num3));
@@ -34,6 +36,7 @@ public class KuliTech {
         public static int getMinimumNumber(int num1,int num2,int num3){
         return Math.min(num1,Math.min(num2,num3));
         }
+
 
 
 }

@@ -14,6 +14,9 @@ public class MethodArray {
 
    }
 
-
+    public static void main(String[] args) {
+       int [] s = {1,2,2,3};
+        check(s);
+    }
 
 }

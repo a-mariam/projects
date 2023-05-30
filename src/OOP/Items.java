@@ -1,6 +1,6 @@
 package OOP;
 
 public class Items {
-    private int quantityOfProductSelected;
-    private String product;
+    private double[] quantityOfProductSelected;
+    private String[] product;
 }

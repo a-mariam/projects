@@ -1,5 +1,5 @@
 package OOP;
 
 public class Estore {
-    private String user;
+    User [] User = new User[3];
 }

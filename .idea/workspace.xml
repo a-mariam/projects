@@ -5,15 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="068394e7-8407-4d34-8eef-e9eed4ef306d" name="Changes" comment="OOP begins">
-      <change afterPath="$PROJECT_DIR$/src/ArraySnacksByChibuzor/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraySnacksByChibuzor/CreditCardValidationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ArraySnacksByChibuzor/MBTI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraySnacksByChibuzor/MBTI_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraySnacksByChibuzor/UsernameGeneration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraySnacksByChibuzor/UsernameGeneratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChibuzorClass/CreatMultiplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChibuzorClass/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChibuzorClass/TakesArrayReturnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChibuzorClass/TakesArrayReturnArrayTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ChibuzorHellClass/Nigeria.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ChibuzorHellClass/Nigeria2Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ChibuzorHellClass/Person.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ChibuzorHellClass/Problem.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ChibuzorHellClass/TypeOfProblem.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ChibuzorHellClass/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DairyApp/Diaries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DairyApp/Diary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DairyApp/DiaryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/Mystack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/TestFirstStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JennyClass/ArrayList_Implementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JennyClass/Implementing_A_List_Using_ArrayTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MBTI.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/OOP/Admin.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/OOP/Product.java" afterDir="false" />
@@ -31,8 +46,14 @@
       <change afterPath="$PROJECT_DIR$/src/Thing/Reptiles.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Thing/Things.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Thing/Vertebrae.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaClass.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaClass.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArraySnacksByChibuzor/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraySnacksByChibuzor/CreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArraySnacksByChibuzor/CreditCardValidationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraySnacksByChibuzor/CreditCardValidationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Chapter_7/CollectUserInputArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter_7/CollectUserInputArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter_7/MethodArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter_7/MethodArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KuliTech.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KuliTech.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/OOP/BillingInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/BillingInformation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/OOP/CreditCardInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/CreditCardInformation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/OOP/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Customer.java" afterDir="false" />
@@ -48,8 +69,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Enum" />
+        <option value="Kotlin Class" />
         <option value="Class" />
         <option value="JUnit5 Test Class" />
       </list>
@@ -96,96 +117,108 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ArraySnacksByChibuzor" />
+      <recent name="ChibuzorClass" />
+      <recent name="DataStructureAndAlgorithm" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="DataStructureAndAlgorithm" />
+      <recent name="JennyClass" />
       <recent name="ArraySnacksByChibuzor" />
+      <recent name="ChibuzorClass" />
       <recent name="ChibuzorHellClass" />
-      <recent name="Chapter_7" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CreditCardValidationTest">
-    <configuration name="CreditCard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraySnacksByChibuzor.CreditCard" />
+  <component name="RunManager" selected="JUnit.ListTest.TestThat_Element_CanBe_Added_ToThe_List">
+    <configuration name="CreatMultiplicationTest.testCreatMultiplication" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArraySnacksByChibuzor.*" />
+          <option name="PATTERN" value="ChibuzorClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ChibuzorClass" />
+      <option name="MAIN_CLASS_NAME" value="ChibuzorClass.CreatMultiplicationTest" />
+      <option name="METHOD_NAME" value="testCreatMultiplication" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MBTI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraySnacksByChibuzor.MBTI" />
+    <configuration name="ListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArraySnacksByChibuzor.*" />
+          <option name="PATTERN" value="DataStructureAndAlgorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CreditCardValidationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaClass" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArraySnacksByChibuzor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ArraySnacksByChibuzor" />
-      <option name="MAIN_CLASS_NAME" value="ArraySnacksByChibuzor.CreditCardValidationTest" />
+      <option name="PACKAGE_NAME" value="DataStructureAndAlgorithm" />
+      <option name="MAIN_CLASS_NAME" value="DataStructureAndAlgorithm.ListTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreditCardValidationTest.testCreditCardType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ListTest.TestThat_Element_CanBe_Added_ToThe_List" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArraySnacksByChibuzor.*" />
+          <option name="PATTERN" value="DataStructureAndAlgorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ArraySnacksByChibuzor" />
-      <option name="MAIN_CLASS_NAME" value="ArraySnacksByChibuzor.CreditCardValidationTest" />
-      <option name="METHOD_NAME" value="testCreditCardType" />
+      <option name="PACKAGE_NAME" value="DataStructureAndAlgorithm" />
+      <option name="MAIN_CLASS_NAME" value="DataStructureAndAlgorithm.ListTest" />
+      <option name="METHOD_NAME" value="TestThat_Element_CanBe_Added_ToThe_List" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreditCardValidationTest.testCreditCardValidation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ListTest.testThat_ArrayList_isNot_Empty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArraySnacksByChibuzor.*" />
+          <option name="PATTERN" value="DataStructureAndAlgorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ArraySnacksByChibuzor" />
-      <option name="MAIN_CLASS_NAME" value="ArraySnacksByChibuzor.CreditCardValidationTest" />
-      <option name="METHOD_NAME" value="testCreditCardValidation" />
+      <option name="PACKAGE_NAME" value="DataStructureAndAlgorithm" />
+      <option name="MAIN_CLASS_NAME" value="DataStructureAndAlgorithm.ListTest" />
+      <option name="METHOD_NAME" value="testThat_ArrayList_isNot_Empty" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TakesArrayReturnArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ChibuzorClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ChibuzorClass" />
+      <option name="MAIN_CLASS_NAME" value="ChibuzorClass.TakesArrayReturnArrayTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CreditCardValidationTest" />
-        <item itemvalue="JUnit.CreditCardValidationTest.testCreditCardType" />
-        <item itemvalue="Application.CreditCard" />
-        <item itemvalue="JUnit.CreditCardValidationTest.testCreditCardValidation" />
-        <item itemvalue="Application.MBTI" />
+        <item itemvalue="JUnit.ListTest.TestThat_Element_CanBe_Added_ToThe_List" />
+        <item itemvalue="JUnit.ListTest" />
+        <item itemvalue="JUnit.ListTest.testThat_ArrayList_isNot_Empty" />
+        <item itemvalue="JUnit.CreatMultiplicationTest.testCreatMultiplication" />
+        <item itemvalue="JUnit.TakesArrayReturnArrayTest" />
       </list>
     </recent_temporary>
   </component>
@@ -248,6 +281,11 @@
       <workItem from="1684864315622" duration="29674000" />
       <workItem from="1685016045008" duration="3282000" />
       <workItem from="1685035073237" duration="6825000" />
+      <workItem from="1685089836470" duration="9504000" />
+      <workItem from="1685106347250" duration="4163000" />
+      <workItem from="1685129557789" duration="15690000" />
+      <workItem from="1685353141295" duration="754000" />
+      <workItem from="1685367842042" duration="7634000" />
     </task>
     <task id="LOCAL-00001" summary="My first Array declaration">
       <created>1683104886256</created>
