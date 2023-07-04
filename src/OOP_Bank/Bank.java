@@ -79,17 +79,27 @@ public class Bank {
 
 
 
-    public double CheckBalance(String pin, String accountNumber) {
+    public String CheckBalance(String pin, String accountNumber) {
 
        try {
            Account account = findAccountByAccountNumber(accountNumber);
-           return account.getBalance(pin);
+           if (Objects.equals(findAccountByAccountNumber(accountNumber),account)) {
+               if (Objects.equals(account.validatePin(pin),pin)) {
+                   return "Your current balance is: " + account.getBalance(pin);
+               }else {
+                   System.out.println("Incorrect pin");
+               }
+           }else {
+               System.out.println("Account not found..");
+           }
        }
-       catch(Exception e){
+       catch(NullPointerException e){
            System.out.println("Account Not Found");
+       }catch (IllegalArgumentException ex){
+           System.out.println("Incorrect pin");
        }
 
-  return 0;
+      return "";
     }
 
     public void tranfers(String accountNumber, int amount){
@@ -104,7 +114,7 @@ public class Bank {
             }
         }
         catch (NullPointerException ex){
-            System.out.println("Account Not Found!!");
+            System.out.println("Receiver account is not Found!!");
         }
         catch (IllegalArgumentException ex){
             System.out.println("Invalid Amount");
@@ -113,18 +123,18 @@ public class Bank {
     }
 
     public void withdraw(String pin, String accountNumber, int amount) {
-          try {
-              Account acc = findAccountByAccountNumber(accountNumber);
-              if (Objects.equals(checkAccountNumber(accountNumber), true)) {
-                      acc.withdrawCash(amount, pin);
-                      System.out.println("Your withdrawal of " + amount + " Was successful!!");
-              }
-          }
-            catch (IllegalArgumentException ex){
+        try {
+            Account acc = findAccountByAccountNumber(accountNumber);
+              if (Objects.equals(findAccountByAccountNumber(accountNumber), acc)) {
+            acc.withdrawCash(amount, pin);
+            System.out.println("Your withdrawal of " + amount + " Was successful!!");
+        }
+    }
+            catch (IllegalArgumentException ex) {
                 System.out.println("Invalid Amount");
             }catch (NullPointerException ex){
-              System.out.println("Incorrect Pin");
-              }
+            System.out.println("Account not found");
+        }
 
     }
 
@@ -139,7 +149,7 @@ public class Bank {
                 System.out.println("Invalid Amount!!");
             }
         } catch (NullPointerException ex) {
-            System.out.println("Invalid Account!!");
+            System.out.println("Sender account's not found!!");
         } catch (Exception e) {
             System.out.println("Invalid!!");
         }

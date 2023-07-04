@@ -43,28 +43,25 @@ public void testThat_Account_Can_Generate_AccountNumber(){
         bank.registerCustomer("mariam","ambali","7654","07044063892");
         assertEquals(2, bank.getAccountSize());
     }
-
+@Test
     public void test_Get_Account_Size(){
-        bank.getAccountSize();
+        bank.registerCustomer("many","mama","1233","09077565757");
+        assertEquals(bank.getAccountSize(),1);
     }
-    @Test
-    public  void  testAccount_ByAccountNumber(){
-        bank.findAccountByAccountNumber("7044063892");
-        //assertEquals();
-    }
+
     @Test
     public  void testThat_Bank_Can_Deposit(){
         bank.registerCustomer("mariam","ambali","7654","07044063892");
         bank.deposit("7044063892", 1000);
         bank.CheckBalance("7654","7044063892");
-        assertEquals(1000.0,bank.CheckBalance("7654","7044063892"));
+        assertEquals("Your current balance is: 1000.0",bank.CheckBalance("7654","7044063892"));
     }
     @Test
     public void  testThat_Bank_Can_Withdraw(){
         bank.registerCustomer("peter","paul","2005","08055958617");
         bank.deposit("8055958617",5000);
         bank.withdraw("2005","8055958617",2000);
-        assertEquals(3000,bank.CheckBalance("2005","8055958617"));
+        assertEquals("Your current balance is: 3000.0",bank.CheckBalance("2005","8055958617"));
     }
     @Test
     public void testThat_BankCan_GetBalance(){

@@ -29,9 +29,7 @@ public class Main {
         String user = "";
 
             while (user.isEmpty()) {
-//                while(user.chars()){
-//
-//                }
+
                 try{
                 user = input(mainMenu);
 
@@ -140,7 +138,6 @@ public class Main {
         while(accountNumber.isEmpty()){
             accountNumber = input("PLEASE ENTER ACCOUNT NUMBER: ");
         }
-        display("Your Current Balance is: " + bank.CheckBalance(pin,accountNumber));
 
         display("  ");
         display("what would you like to do");
@@ -171,10 +168,11 @@ public class Main {
         }
         bank.transfer(senderAccount,receiverAccount,pin,amountToTransfer);
         display("""
-                <<<<<<<<>>>>>>>>
-                <<<<<<<<>>>>>>>>>
+                <<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>
+                What would you like to do today..
+                <<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>
                 """);
-        display("What would you like to do today");
+        //display("What would you like to do today");
         bankMenu();
     }
      public static String  input(String message){

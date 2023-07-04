@@ -1,4 +1,4 @@
-package MidNightChapter7;
+package ClassChapters;
 
 import java.security.SecureRandom;
 

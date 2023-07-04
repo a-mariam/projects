@@ -1,4 +1,4 @@
-package MidNightChapter7;
+package ClassChapters;
 
 public class MethodStrinh {
 

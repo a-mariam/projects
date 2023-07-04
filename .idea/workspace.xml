@@ -4,62 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="068394e7-8407-4d34-8eef-e9eed4ef306d" name="Changes" comment="OOP begins">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+    <list default="true" id="068394e7-8407-4d34-8eef-e9eed4ef306d" name="Changes" comment="Bank bank;">
+      <change afterPath="$PROJECT_DIR$/src/ARRAY/ArcheryGame.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ArraySnacksByChibuzor/MBTI.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ArraySnacksByChibuzor/MBTI_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraySnacksByChibuzor/UsernameGeneration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraySnacksByChibuzor/UsernameGeneratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChibuzorClass/CreatMultiplicationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChibuzorClass/Multiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChibuzorClass/TakesArrayReturnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChibuzorClass/TakesArrayReturnArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChibuzorHellClass/Nigeria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChibuzorHellClass/Nigeria2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChibuzorHellClass/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChibuzorHellClass/Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChibuzorClass/MostAppear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChibuzorClass/MostAppearTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ChibuzorHellClass/TypeOfProblem.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ChibuzorHellClass/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassChapters/SpreadingAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassChapters/SpreadingAnArrayTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DairyApp/Diaries.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DairyApp/Diary.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DairyApp/DiaryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/ListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/Mystack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/TestFirstStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JennyClass/ArrayList_Implementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DairyApp/Entry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DairyApp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/QueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/SetTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/JennyClass/Implementing_A_List_Using_ArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MBTI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Seller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Relationship/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thing/Amphibians.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thing/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thing/Aves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thing/Invertebrae.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thing/LivingThing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thing/Mammals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thing/NonLivingThing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thing/Pisces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thing/Plants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thing/Reptiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thing/Things.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thing/Vertebrae.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Bank/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Bank/BankAccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PHONEBOOK/PhoneBooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PHONEBOOK/PhoneBooksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PHONEBOOK/Phonebook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaClass.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaClass.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArraySnacksByChibuzor/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraySnacksByChibuzor/CreditCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArraySnacksByChibuzor/CreditCardValidationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraySnacksByChibuzor/CreditCardValidationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter_7/CollectUserInputArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter_7/CollectUserInputArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter_7/MethodArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter_7/MethodArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KuliTech.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KuliTech.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/BillingInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/BillingInformation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/CreditCardInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/CreditCardInformation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Estore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Estore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Items.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Items.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/ListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/Mystack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/Mystack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/TestFirstStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/TestFirstStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidNightChapter7/ArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassChapters/ArrayExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidNightChapter7/MethodStrinh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassChapters/MethodStrinh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidNightChapter7/StudentGradeBarChat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassChapters/StudentGradeBarChat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/OOP/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_Bank/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Bank/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_Bank/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Bank/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_Bank/BankTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Bank/BankTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_Bank/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Bank/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +66,10 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///usr/lib/jvm/zulu-19-amd64/lib/src.zip!/java.base/java/lang/Integer.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///usr/lib/jvm/zulu-19-amd64/lib/src.zip!/java.base/java/lang/NumberFormatException.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -112,113 +98,115 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sybase&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="ClassChapters" />
+      <recent name="OOP_Bank" />
+      <recent name="DataStructureAndAlgorithm" />
       <recent name="ArraySnacksByChibuzor" />
       <recent name="ChibuzorClass" />
-      <recent name="DataStructureAndAlgorithm" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="PHONEBOOK" />
+      <recent name="OOP_Bank" />
       <recent name="DataStructureAndAlgorithm" />
       <recent name="JennyClass" />
       <recent name="ArraySnacksByChibuzor" />
-      <recent name="ChibuzorClass" />
-      <recent name="ChibuzorHellClass" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ListTest.TestThat_Element_CanBe_Added_ToThe_List">
-    <configuration name="CreatMultiplicationTest.testCreatMultiplication" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BankTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DairyApp.Main" />
       <module name="JavaClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ChibuzorClass.*" />
+          <option name="PATTERN" value="DairyApp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ChibuzorClass" />
-      <option name="MAIN_CLASS_NAME" value="ChibuzorClass.CreatMultiplicationTest" />
-      <option name="METHOD_NAME" value="testCreatMultiplication" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OOP_Bank.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_Bank.Main" />
       <module name="JavaClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataStructureAndAlgorithm.*" />
+          <option name="PATTERN" value="OOP_Bank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DataStructureAndAlgorithm" />
-      <option name="MAIN_CLASS_NAME" value="DataStructureAndAlgorithm.ListTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP_Bank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="OOP_Bank" />
+      <option name="MAIN_CLASS_NAME" value="OOP_Bank.BankTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest.TestThat_Element_CanBe_Added_ToThe_List" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BankTest.testThat_Account_Can_Generate_AccountNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataStructureAndAlgorithm.*" />
+          <option name="PATTERN" value="OOP_Bank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DataStructureAndAlgorithm" />
-      <option name="MAIN_CLASS_NAME" value="DataStructureAndAlgorithm.ListTest" />
-      <option name="METHOD_NAME" value="TestThat_Element_CanBe_Added_ToThe_List" />
+      <option name="PACKAGE_NAME" value="OOP_Bank" />
+      <option name="MAIN_CLASS_NAME" value="OOP_Bank.BankTest" />
+      <option name="METHOD_NAME" value="testThat_Account_Can_Generate_AccountNumber" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest.testThat_ArrayList_isNot_Empty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BankTest.testThat_getAccountName_Method" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataStructureAndAlgorithm.*" />
+          <option name="PATTERN" value="OOP_Bank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DataStructureAndAlgorithm" />
-      <option name="MAIN_CLASS_NAME" value="DataStructureAndAlgorithm.ListTest" />
-      <option name="METHOD_NAME" value="testThat_ArrayList_isNot_Empty" />
+      <option name="PACKAGE_NAME" value="OOP_Bank" />
+      <option name="MAIN_CLASS_NAME" value="OOP_Bank.BankTest" />
+      <option name="METHOD_NAME" value="testThat_getAccountName_Method" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TakesArrayReturnArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaClass" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ChibuzorClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ChibuzorClass" />
-      <option name="MAIN_CLASS_NAME" value="ChibuzorClass.TakesArrayReturnArrayTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ListTest.TestThat_Element_CanBe_Added_ToThe_List" />
-        <item itemvalue="JUnit.ListTest" />
-        <item itemvalue="JUnit.ListTest.testThat_ArrayList_isNot_Empty" />
-        <item itemvalue="JUnit.CreatMultiplicationTest.testCreatMultiplication" />
-        <item itemvalue="JUnit.TakesArrayReturnArrayTest" />
+        <item itemvalue="JUnit.BankTest" />
+        <item itemvalue="JUnit.BankTest.testThat_Account_Can_Generate_AccountNumber" />
+        <item itemvalue="JUnit.BankTest.testThat_getAccountName_Method" />
+        <item itemvalue="Application.OOP_Bank.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -286,6 +274,53 @@
       <workItem from="1685129557789" duration="15690000" />
       <workItem from="1685353141295" duration="754000" />
       <workItem from="1685367842042" duration="7634000" />
+      <workItem from="1685414679527" duration="322000" />
+      <workItem from="1685427911413" duration="5011000" />
+      <workItem from="1685466096972" duration="599000" />
+      <workItem from="1685537423638" duration="1239000" />
+      <workItem from="1685554430014" duration="40384000" />
+      <workItem from="1685794994404" duration="5980000" />
+      <workItem from="1685894476441" duration="14673000" />
+      <workItem from="1685966392145" duration="982000" />
+      <workItem from="1685993582111" duration="1527000" />
+      <workItem from="1685995592361" duration="4172000" />
+      <workItem from="1686014470181" duration="5954000" />
+      <workItem from="1686062461486" duration="1045000" />
+      <workItem from="1686065092453" duration="569000" />
+      <workItem from="1686066844149" duration="618000" />
+      <workItem from="1686072435932" duration="4992000" />
+      <workItem from="1686087626934" duration="5315000" />
+      <workItem from="1686139328319" duration="2556000" />
+      <workItem from="1686203241759" duration="41892000" />
+      <workItem from="1686313870764" duration="2712000" />
+      <workItem from="1686431246024" duration="12859000" />
+      <workItem from="1686532522345" duration="9132000" />
+      <workItem from="1686587856474" duration="6004000" />
+      <workItem from="1686656379761" duration="8171000" />
+      <workItem from="1686702346071" duration="33109000" />
+      <workItem from="1686912720478" duration="4957000" />
+      <workItem from="1686921846580" duration="6771000" />
+      <workItem from="1687022138012" duration="4321000" />
+      <workItem from="1687041655807" duration="737000" />
+      <workItem from="1687083904000" duration="5192000" />
+      <workItem from="1687156817966" duration="2231000" />
+      <workItem from="1687212426422" duration="1608000" />
+      <workItem from="1687264299578" duration="2730000" />
+      <workItem from="1687294383170" duration="1352000" />
+      <workItem from="1687336372956" duration="50585000" />
+      <workItem from="1687519632074" duration="1175000" />
+      <workItem from="1687549626907" duration="15240000" />
+      <workItem from="1687851016376" duration="3073000" />
+      <workItem from="1687870197026" duration="51000" />
+      <workItem from="1687870738709" duration="19000" />
+      <workItem from="1687870907022" duration="549000" />
+      <workItem from="1687974243151" duration="8078000" />
+      <workItem from="1688090906199" duration="2941000" />
+      <workItem from="1688149510407" duration="656000" />
+      <workItem from="1688229320017" duration="596000" />
+      <workItem from="1688313965720" duration="94000" />
+      <workItem from="1688314291720" duration="4910000" />
+      <workItem from="1688410450929" duration="1862000" />
     </task>
     <task id="LOCAL-00001" summary="My first Array declaration">
       <created>1683104886256</created>
@@ -301,7 +336,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684717784212</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="OOP begins">
+      <created>1685415000502</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685415000502</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Bank bank;">
+      <created>1687266720846</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687266720846</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,6 +370,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My first Array declaration" />
     <MESSAGE value="OOP begins" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP begins" />
+    <MESSAGE value="Bank bank;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bank bank;" />
   </component>
 </project>

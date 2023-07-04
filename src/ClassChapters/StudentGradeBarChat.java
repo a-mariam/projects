@@ -1,4 +1,4 @@
-package MidNightChapter7;
+package ClassChapters;
 
 import java.util.Arrays;
 import java.util.Scanner;

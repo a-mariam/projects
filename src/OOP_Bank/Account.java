@@ -94,7 +94,7 @@ public class Account {
         catch (IllegalArgumentException ex) {
             System.out.println("Incorrect Password");
         }
-        return 0;
+        return Double.parseDouble(null);
     }
     public String getAcountNumber(){
 
