@@ -36,7 +36,6 @@ public class Mystack {
     }
 
     public int size() {
-       //j for (int count )
         return  size;
     }
 }

@@ -27,12 +27,6 @@ public class List {
     }
 
     public int size() {
-//        int counter = 0;
-//        for (int count = 0; count <= fruit.length - 1; count++){
-//            counter += count;
-//        }
-//        System.out.println(counter);
-//        return counter;
         return indexx;
     }
 
@@ -46,6 +40,5 @@ public class List {
 
     public void remove(int index) {
         indexx =indexx - index ;
-//    fruit[index] = null;
     }
 }

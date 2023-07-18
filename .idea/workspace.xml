@@ -5,43 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="068394e7-8407-4d34-8eef-e9eed4ef306d" name="Changes" comment="Bank bank;">
-      <change afterPath="$PROJECT_DIR$/src/ARRAY/ArcheryGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraySnacksByChibuzor/MBTI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraySnacksByChibuzor/MBTI_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChibuzorClass/MostAppear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChibuzorClass/MostAppearTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChibuzorHellClass/TypeOfProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChibuzorHellClass/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassChapters/SpreadingAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassChapters/SpreadingAnArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DairyApp/Diaries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DairyApp/Diary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DairyApp/DiaryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DairyApp/Entry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DairyApp/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/QueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/SetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JennyClass/Implementing_A_List_Using_ArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_Bank/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_Bank/BankAccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PHONEBOOK/PhoneBooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PHONEBOOK/PhoneBooksTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PHONEBOOK/Phonebook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/ListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/Mystack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/Mystack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/TestFirstStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm/TestFirstStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidNightChapter7/ArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassChapters/ArrayExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidNightChapter7/MethodStrinh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassChapters/MethodStrinh.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidNightChapter7/StudentGradeBarChat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassChapters/StudentGradeBarChat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_Bank/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Bank/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_Bank/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Bank/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_Bank/BankTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Bank/BankTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_Bank/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Bank/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PHONEBOOK/PhoneBooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PHONEBOOK/PhoneBooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PHONEBOOK/PhoneBooksTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PHONEBOOK/PhoneBooksTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PHONEBOOK/Phonebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PHONEBOOK/Phonebook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,13 +95,13 @@
       <recent name="ArraySnacksByChibuzor" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BankTest">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DairyApp.Main" />
+  <component name="RunManager" selected="JUnit.ListTest">
+    <configuration name="Array_classWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter_7.Array_classWork" />
       <module name="JavaClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DairyApp.*" />
+          <option name="PATTERN" value="Chapter_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOP_Bank.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_Bank.Main" />
+    <configuration name="CreditCard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraySnacksByChibuzor.CreditCard" />
       <module name="JavaClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP_Bank.*" />
+          <option name="PATTERN" value="ArraySnacksByChibuzor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,29 +153,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BankTest.testThat_getAccountName_Method" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP_Bank.*" />
+          <option name="PATTERN" value="DataStructureAndAlgorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="OOP_Bank" />
-      <option name="MAIN_CLASS_NAME" value="OOP_Bank.BankTest" />
-      <option name="METHOD_NAME" value="testThat_getAccountName_Method" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="DataStructureAndAlgorithm" />
+      <option name="MAIN_CLASS_NAME" value="DataStructureAndAlgorithm.ListTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ListTest" />
+        <item itemvalue="Application.Array_classWork" />
+        <item itemvalue="Application.CreditCard" />
         <item itemvalue="JUnit.BankTest" />
         <item itemvalue="JUnit.BankTest.testThat_Account_Can_Generate_AccountNumber" />
-        <item itemvalue="JUnit.BankTest.testThat_getAccountName_Method" />
-        <item itemvalue="Application.OOP_Bank.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -321,6 +289,16 @@
       <workItem from="1688313965720" duration="94000" />
       <workItem from="1688314291720" duration="4910000" />
       <workItem from="1688410450929" duration="1862000" />
+      <workItem from="1688632343205" duration="599000" />
+      <workItem from="1688693536367" duration="630000" />
+      <workItem from="1688749190309" duration="599000" />
+      <workItem from="1688903122225" duration="1558000" />
+      <workItem from="1688940603870" duration="597000" />
+      <workItem from="1689120382292" duration="766000" />
+      <workItem from="1689232367882" duration="599000" />
+      <workItem from="1689285159700" duration="650000" />
+      <workItem from="1689539260606" duration="599000" />
+      <workItem from="1689585559472" duration="660000" />
     </task>
     <task id="LOCAL-00001" summary="My first Array declaration">
       <created>1683104886256</created>
